@@ -3,8 +3,6 @@ uvicorn
 langchain
 cassio
 langchain-google-genai
-datasets
-PyPDF2
 openai
 python-dotenv
 tiktoken
