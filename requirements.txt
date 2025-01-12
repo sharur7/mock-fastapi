@@ -4,5 +4,4 @@ langchain
 cassio
 langchain-google-genai
 python-dotenv
-httpx
 langchain-community
