@@ -1,7 +1,13 @@
 fastapi
 uvicorn
-python-multipart
-PyPDF2
 langchain
 cassio
+langchain-google-genai
+datasets
+PyPDF2
+google-generative-ai
 openai
+python-dotenv
+tiktoken
+httpx
+langchain-community
