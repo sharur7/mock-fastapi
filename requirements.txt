@@ -5,7 +5,6 @@ cassio
 langchain-google-genai
 datasets
 PyPDF2
-google-generative-ai
 openai
 python-dotenv
 tiktoken
